@@ -1,0 +1,9 @@
+C:\Users\cliente\RiderProjects\Labo01\Labo01\bin\Debug\Labo01.exe.config
+C:\Users\cliente\RiderProjects\Labo01\Labo01\bin\Debug\Labo01.exe
+C:\Users\cliente\RiderProjects\Labo01\Labo01\bin\Debug\Labo01.pdb
+C:\Users\cliente\RiderProjects\Labo01\Labo01\obj\Debug\Labo01.csprojAssemblyReference.cache
+C:\Users\cliente\RiderProjects\Labo01\Labo01\obj\Debug\Labo01.Properties.Resources.resources
+C:\Users\cliente\RiderProjects\Labo01\Labo01\obj\Debug\Labo01.csproj.GenerateResource.cache
+C:\Users\cliente\RiderProjects\Labo01\Labo01\obj\Debug\Labo01.exe
+C:\Users\cliente\RiderProjects\Labo01\Labo01\obj\Debug\Labo01.pdb
+C:\Users\cliente\RiderProjects\Labo01\Labo01\obj\Debug\Labo01.Form1.resources
