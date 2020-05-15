@@ -1,0 +1,11 @@
+C:\Users\cliente\RiderProjects\Labo 08\bin\Debug\Labo_08.exe.config
+C:\Users\cliente\RiderProjects\Labo 08\bin\Debug\Labo_08.pdb
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo 08.csprojAssemblyReference.cache
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo_08.Properties.Resources.resources
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo 08.csproj.GenerateResource.cache
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo_08.exe
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo_08.pdb
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo_08.Login.resources
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo_08.Register.resources
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo_08.Form1.resources
+C:\Users\cliente\RiderProjects\Labo 08\obj\Debug\Labo 08.csproj.CopyComplete
